@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    margin: 0px;
+
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+.bg { 
+    /* The image used */
+    background-image: url("../images/2932995-halloween-wallpapers.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center{
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+}
