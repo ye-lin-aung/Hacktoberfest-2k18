@@ -8,7 +8,17 @@ This Issues in this repo is for everyone who would like to contribute
 
 Happy Hacking !!
 
+## Contributing
+
+1. Fork it ( https://github.com/ye-lin-aung/Hacktoberfest-2k18 )
+2. Create your feature branch (`git checkout -b my-awesome-feature`)
+3. Commit your changes (`git commit -am 'Add awesome feature'`)
+4. Push to the branch (`git push origin my-awesome-feature`)
+5. Create a new Pull Request
+
+
 ### License
+
 This project is licensed under the Open Source License
 ```                    GNU GENERAL PUBLIC LICENSE
                         Version 3, 29 June 2007
