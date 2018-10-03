@@ -1,5 +1,7 @@
 # Hacktoberfest-2k18
 
+[![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/bevacqua/awesome-badges)
+
 This is for Hacktoberfest-2k18.
 This Issues in this repo is for everyone who would like to contribute
 
